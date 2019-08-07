@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Andela Profile</string>
+    <string name="track"> TRACK: ANDROID</string>
+    <string name="country">COUNTRY: Nigeria</string>
+    <string name="email">EMAIL: samexchi@gmail.com</string>
+    <string name="phone_number">PHONE NUMBER: 08087143963</string>
+    <string name="slack_username">SLACK USERNAME: Samexchi</string>
+    <string name="profile_name"> Ochuba Samuel</string>
+    <string name="profile_activity">Profile </string>
+    <string name="about_activity"> About</string>
+
+</resources>
